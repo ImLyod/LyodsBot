@@ -1,7 +1,6 @@
 {
-  
-  Name: "Lyod's Game Tweaker",
-  Version: "BETA v1.0",
-  TestMode: true,
-  Allowed: "Lyod"
+  "Name": "Lyod's Game Tweaker",
+  "Version": "BETA v1.0",
+  "TestMode": true,
+  "Allowed": "Lyod"
 }
