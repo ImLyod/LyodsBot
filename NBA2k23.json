@@ -1,4 +1,6 @@
 {
+	"Slider" : "B0 AF ?? ?? ?? 7F 00 00 98 BF ?? ?? ?? 7F 00",
+	
 	"Offense" : {
 		"Inside_Shot_Success": "8BC",
 		"Close_Shot_Success": "8C4",
