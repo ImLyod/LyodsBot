@@ -1,6 +1,9 @@
 {
 	"Character" :
 	{
+		/*	ONE = (AOB, Attributes_Base)	*/
+		/*	(ONE, Attributes)		*/
+		
 		"AOB" : "C0 71 09 ?? ?? ?? 00 00 00 00 80 3F 00 00 80",
 		"Attributes_Base" : ["0", "10", "30", "D8", "28", "18"],
 		"Attributes" :
@@ -19,9 +22,5 @@
 			"Health_Per_Level_Up" : "68",
 			"Area_Modifier" : "6C"
 		}
-		
-		/*	ONE = (AOB, Attributes_Base)	*/
-		/*	(ONE, Attributes)		*/
-		
 	}
 }
