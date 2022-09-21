@@ -1,0 +1,23 @@
+{
+	"Character" :
+	{
+		"AOB" : "C0 71 09 ?? ?? ?? 00 00 00 00 80 3F 00 00 80",
+		"Attributes_Base" : ["0", "10", "30", "D8", "28", "18"],
+		"Attributes" :
+		{
+			"Maximum_Health" : "E10",
+			"Critical_Strike_Power" : "18",
+			"Critical_Strike_Modifier" : "14",
+			"Attack_Power" : "30",
+			"Cast_Frequency_Modifier" : "40",
+			"Amor_Power" : "38",
+			"Damage_Reduction" : "3C",
+			"Block_Power" : "44",
+			"Movement_Speed_Modifier" : "48",
+			"Pick_Up_Range_Modifier" : "58",
+			"Extra_Health_Per_Crystal" : "64",
+			"Health_Per_Level_Up" : "68",
+			"Area_Modifier" : "6C"
+		}
+	}
+}
