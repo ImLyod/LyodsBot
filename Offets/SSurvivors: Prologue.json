@@ -19,5 +19,9 @@
 			"Health_Per_Level_Up" : "68",
 			"Area_Modifier" : "6C"
 		}
+		
+		/*	ONE = (AOB, Attributes_Base)	*/
+		/*	(ONE, Attributes)		*/
+		
 	}
 }
